@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Astaethiel
+- 👀 I’m interested in react.js
+- 🌱 I’m currently learning C#
+- 📫 How to reach me
