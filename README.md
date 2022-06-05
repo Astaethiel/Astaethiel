@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Astaethiel
-- 👀 I’m interested in react.js
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me
